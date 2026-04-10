@@ -6,6 +6,7 @@ Notes/documentation project containing reference material and artifacts.
 ## Current Contents
 - `CONTRIBUTING.md`
 - `README.md`
+- `docs/PROJECT_CONTEXT.md`
 - `QUICKSTART.md`
 - `CLIMATE CHANGE IMPACT ON BANGALORE.pdf`
 - `LICENSE`
